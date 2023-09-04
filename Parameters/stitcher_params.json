@@ -1,0 +1,10 @@
+{
+    "x_pix_offset": 403,
+    "y_pix_offset": 273,
+    "x_rows": 21,
+    "y_rows": 31,
+    "threshold_subtract": 5,
+    "gauss_k_size_strong": 101,
+    "gauss_sigma_strong": 1000,
+    "threshold_mask": 120
+}

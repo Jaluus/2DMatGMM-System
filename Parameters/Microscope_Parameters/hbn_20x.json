@@ -1,0 +1,22 @@
+{
+  "1": {
+    "light_voltage": 8,
+    "aperture": 4
+  },
+  "2": {
+    "light_voltage": 8,
+    "aperture": 2
+  },
+  "3": {
+    "light_voltage": 8,
+    "aperture": 2
+  },
+  "4": {
+    "light_voltage": 8,
+    "aperture": 2
+  },
+  "5": {
+    "light_voltage": 8,
+    "aperture": 2
+  }
+}

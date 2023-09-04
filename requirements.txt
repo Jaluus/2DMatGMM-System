@@ -1,0 +1,8 @@
+numpy
+matplotlib
+opencv-python
+scikit-image
+scikit-learn
+pywin32
+requests
+numba

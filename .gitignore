@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+
+Drivers/Motor_Driver/DLL_Files
+Drivers/Motor_Driver/Documentation
+# Drivers/Motor_Driver/Documentation
+# Drivers/Microscope_Driver/Documentation.*
